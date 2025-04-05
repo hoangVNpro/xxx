@@ -1,1 +1,1 @@
-1237|de van test|10|https://raw.githubusercontent.com/hoangVNpro/2222/main/de.txt
+1237|test|10|https://raw.githubusercontent.com/hoangVNpro/2222/main/de.txt
